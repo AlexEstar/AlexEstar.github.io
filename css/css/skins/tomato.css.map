@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAUA,IAAI;EACH,KAAK,EAPO,IAAI;EAIhB,cAAc,EAAE,GAAa;;AAK9B,CAAC;EACA,KAAK,EAZE,OAAO;;AAcf,CAAC;EACA,KAAK,EAdO,IAAI;;AAejB,cAAc;EACb,KAAK,EAjBE,OAAO;;AAkBf,SAAS;EACR,gBAAgB,EAnBT,OAAO;;AAoBf,aAAa;EACZ,YAAY,EArBL,OAAO;;AAuBf,cAAc;EACb,gBAAgB,EAtBJ,IAAI",
+"sources": ["../../sass/skins/tomato.sass"],
+"names": [],
+"file": "tomato.css"
+}
