@@ -518,9 +518,10 @@ footer {
 		display: none;
 	}
 	.main_menu ul {
-	display: block !important;
-	
+	display: block !important;	
 }
+
+
 }
 @media only screen and (max-width : 480px) {
 	.main_menu li {   
@@ -547,6 +548,18 @@ footer {
 }
 .main_menu ul li a{
  border-right: none;
+}
+.main_content {
+    margin-top: 27px;
+    display: table-cell;
+}
+.side_content {
+    width: 211px;
+    display: table-cell;
+    float: left;
+}
+.main_w {
+    display: table;
 }
 
 
