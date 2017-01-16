@@ -511,8 +511,7 @@ footer {
 	.sider_container {
     margin: auto;
     position: relative;
-    margin-top: 119px;
-}
+    }
 }
 @media only screen and (min-width : 1024px) {
 	button.main_mnu_button {
